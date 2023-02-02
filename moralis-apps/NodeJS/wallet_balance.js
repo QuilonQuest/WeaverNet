@@ -1,5 +1,5 @@
 //Get Wallet Balance and Token Price on all chains.
-const web3ApiKey = 'DAFKQtdXVuQETVaX7zyJFVy7ZetNngkMMgJOt8vKJrtfePTJXkfIPSOsaaG0Igvy';
+const web3ApiKey = '';
 const options = {
   method: 'GET',
   headers: {
